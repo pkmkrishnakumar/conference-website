@@ -6,4 +6,4 @@ WEB APPLICATION DEVELOPMENT
 
 *This project only has frontend with all data added in assets folder.
 
-***This is a Project created for Academic Credit and Not an Official Website of Any Conference hosted by SRMIST.
+***This is a Project created for Academic purpose and Not an Official Website of Any Conference hosted by SRMIST.
